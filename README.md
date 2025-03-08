@@ -2,7 +2,7 @@ Cricket Match Win Probability Predictor
 
 **Cricket Match Win Probability Predictor** is a web application built using Flask that predicts the probability of a team winning a cricket match based on live 				match data. The application uses a pre-trained machine learning model to calculate the win and loss probabilities for the batting team.
 
-##Features
+Features
 		Win Probability Prediction
 				Predicts the probability of the batting team winning or losing the match.
 				Takes into account factors such as:
